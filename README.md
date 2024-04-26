@@ -1,12 +1,12 @@
-# Background
-In this assignment, I use the concepts I've learned to complete two Python challenges, PyBank and PyPoll. Both tasks present a real-world situation where I newly developed Python scripting skills come in handy.
+#                                                   Background
+**In this assignment, I use the concepts I've learned to complete two Python challenges, PyBank and PyPoll. Both tasks present a real-world situation where I newly developed Python scripting skills come in handy.**
 ## Steps 
 ### Before starting the assignment, be sure to complete the following steps:
 Create a new repository for this project called python-challenge. 
 
-Clone the new repository to your computer.
+ Clone the new repository to your computer.
 
-Inside your local Git repository, create a folder for each Python assignment and name them PyBank and PyPoll.
+ Inside your local Git repository, create a folder for each Python assignment and name them PyBank and PyPoll.
 
 In each folder that you just created, add the following content:
 
